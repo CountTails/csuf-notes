@@ -1,0 +1,20 @@
+[book]
+authors = ["Nathan Mendoza"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CSUF Notebook"
+
+[output.html]
+git-repository-url = "https://github.com/nathancmendoza/school-notes"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/nathancmendoza/school-notes/edit/main/{path}"
+site-url = "/uci/"
+
+[output.html.fold]
+enable = true    # whether or not to enable section folding
+level = 0         # the depth to start folding
+
+[output.html.search]
+enable = false            # enables the search feature
+
