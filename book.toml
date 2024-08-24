@@ -6,10 +6,10 @@ src = "src"
 title = "CSUF Notebook"
 
 [output.html]
-git-repository-url = "https://github.com/nathancmendoza/school-notes"
+git-repository-url = "https://github.com/nathancmendoza/csuf-notes"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/nathancmendoza/school-notes/edit/main/{path}"
-site-url = "/uci/"
+edit-url-template = "https://github.com/nathancmendoza/csuf-notes/edit/main/{path}"
+site-url = "/csuf/"
 
 [output.html.fold]
 enable = true    # whether or not to enable section folding
