@@ -1,3 +1,8 @@
-# Summary
+# CSU Fullerton Notebook - MS in Software Engineering
 
-- [Chapter 1](./chapter_1.md)
+[Introduction](PREFACE.md)
+
+# Fall 2024
+
+- [CPSC 541](fall-2024/cpsc-541/syllabus.md)
+- [CPSC 544](fall-2024/cpsc-544/syllabus.md)
