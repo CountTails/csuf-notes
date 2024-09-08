@@ -9,12 +9,15 @@
 
 ### Customer-developer partnership
 
-- Excellent software comes from
-  - Well-executed design
-  - Excellent requirements
-- Excellent requirements come from
-  - Collaboration between customer and developer
-  - Understanding what is needed for success
+**Excellent software comes from**
+
+- Well-executed design
+- Excellent requirements
+
+**Excellent requirements come from**
+
+- Collaboration between customer and developer
+- Understanding what is needed for success
 
 ### Customer bill of rights
 
@@ -49,7 +52,10 @@
 - Customer doesn't read the requirements specification that they agree to
 - Developer treats specification as a "cast in stone" unchanging document
 
-> Reality is that it is **impossible** to know all requirements early on and that requirements will **always** change
+**Reality**
+
+- Impossible to know all requirements early on
+- Requirements will always change
 
 ### Establishing a baseline
 
