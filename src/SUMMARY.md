@@ -11,5 +11,6 @@
 - [CPSC 544](fall-2024/cpsc-544/syllabus.md)
   - [Lecture 1: Software Process Maturity](fall-2024/cpsc-544/lecture-1_software-process-maturity.md)
   - [Lecture 2: Agile Processes and Extreme Programming](fall-2024/cpsc-544/lecture-2_agile-processes-and-xp.md)
-  - [Lecture 3: Principles of Software Process Change](fall-2024/cpsc-544/lecture-3_prinicples-of-software-change.md)
-  - [Lecture 4: Software Process Assessment](fall-2024/cpsc-544/lecture-4_software-process-assessment.md)
+  - [Lecture 3: Scrum Processes](fall-2024/cpsc-544/lecture-3_scrum-processes.md)
+  - [Lecture 4: Principles of Software Process Change](fall-2024/cpsc-544/lecture-4_prinicples-of-software-change.md)
+  - [Lecture 5: Software Process Assessment](fall-2024/cpsc-544/lecture-5_software-process-assessment.md)

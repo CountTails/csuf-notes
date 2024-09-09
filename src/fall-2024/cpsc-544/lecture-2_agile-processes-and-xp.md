@@ -6,7 +6,7 @@
 
 **Iterative development**
 
-- Approach building software in which the overall lifecycle is composed of several iterations in sequence
+- Approach building software in which the overall life cycle is composed of several iterations in sequence
 - Each iteration is a *self-contained* mini-project
 - The goal is an **iteration release**: a stable, integrated, and tested partially completed system
 
@@ -48,16 +48,20 @@
 
 ### Agile development
 
-> The application of **timeboxed iterative and evolutionary planning and development** to promote **evolutionary delivery** and encourage a *rapid and flexible* response to change
+- Application of time-boxed, iterative, evolutionary, and adaptive development and planning
+- Promotes evolutionary delivery and encourages agility in is values and practices
+- Provide a framework for rapid and flexible response to change
 
 **Agile manifesto**
 
-- Individuals and interactions > processes and tools
-- Working software > comprehensive documentation
-- Customer collaboration > contract negotiation
-- Responding to change > following a plan
-
 There is value in the items on the right, but we value the items on the left more.
+
+| Valuable | Useful |
+|:--------:|:------:|
+| Individuals and interactions | Processes and tools |
+| Working software | Comprehensive documentation |
+| Customer collaboration | Contract negotiation |
+| Responding to change | Following a plan |
 
 **Agile principles**
 
@@ -128,9 +132,9 @@ There is value in the items on the right, but we value the items on the left mor
   - Practices like test-driven development, refactoring, pair programming, and continuous integration
   - Some of these are truly adopted by developers and are staples of good programming techniques
 
-### Lifecycle
+### Life cycle
 
-![XP Lifecycle](figures/xp-lifecycle.png)
+![XP Life cycle](figures/xp-lifecycle.png)
 
 **1) Exploration**
 
@@ -153,7 +157,7 @@ There is value in the items on the right, but we value the items on the left mor
 **4) Productionizing**
 
 - Developers implement stories
-  - Within agreed upon timeboxed period
+  - Within agreed upon time-boxed period
   - Collaboration with customers on tests and details are continuous
 
 **5) Maintenance**
@@ -198,7 +202,7 @@ There is value in the items on the right, but we value the items on the left mor
 
 **Embrace change**
 
-- Access to onsite customer or proxy is essential
+- Access to on-site customer or proxy is essential
 - Customer on call for questions
 - Overarching attitude is to embrace, rather than fight, change and to be able to move quickly in response to change
 
@@ -222,7 +226,7 @@ There is value in the items on the right, but we value the items on the left mor
 
 - Writing down requirements, design, or management documents is discouraged to getting to code quickly
 - Small paper index cards and verbal communication are preferred
-- An *onsite customer* compensates for the lack of documentation
+- An *on-site customer* compensates for the lack of documentation
 - XP is not against documentation, but believes the time spent documenting is better spent coding
 
 **Measurement & tracking**
