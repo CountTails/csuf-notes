@@ -10,7 +10,7 @@
 ### The people
 
 - **Better** people clearly do **better** work
-- Focusing purely on talent can lead to a blind alley
+- Focusing purely on talent can be an unproductive undertaking
   - Best people are always in short supply
   - Your team is probably already the best you can get
   - Proper *leadership and support* can help most people do better work
@@ -69,7 +69,10 @@ Senior management is required to:
 
 ### 6) Changes require investment
 
-> It takes planning, dedicated people, management time, and capital investment
+- Planning
+- Dedicated people
+- Management time
+- Capital investment
 
 **Someone must work on it**
 
@@ -101,7 +104,7 @@ Senior management is required to:
   - Use the languages and tools they are given
   - Understand protocols and system services they need
   - Effectively use the organization's process
-  - Appreciate the subtleties of the application they are Implementing
+  - Appreciate the subtleties of the application they are implementing
   - Plan and track their own work
 - Without training, necessary learning is gained through *trial and error*
   - Wastes time and money
@@ -120,8 +123,8 @@ Senior management is required to:
   - Development should not start until they are explicitly defined
 - **Reality**:
   - Requirements **must change** as the job progresses
-  - Practical to use an *incremental development process* that gradually increases the level of detail
-  - Requirements and the implementation are **mutually refined**
+  - Practical to use an *incremental development process* that
+  - Gradually increases the level of detail as requirements and the implementation are **mutually refined**
 - Stable requirements
   - Solution gradually evolves into something more likely to meet user needs
   - Requirement problem can appear at any time
@@ -140,14 +143,14 @@ Senior management is required to:
 
 ### Software quality cannot be measured
 
-- There is *no* measure the can comprehensively measure software quality
+- There is *no* measure the can comprehensively represent programming quality
 - Quality measures are valuable, so they should be found and used
 - Discussions requires use of numbers, which requires measurement
 - Without measurement, a quality program produces little useful action
 
 ### The problems are technical
 
-- Problems are cost, schedule and quality remain
+- Problems of cost, schedule and quality remain
 - The highest priority problems are *not technical*
   - Controlling high volumes of change
   - Recovering from late-discovered defects
@@ -173,14 +176,14 @@ Senior management is required to:
 - Software people are *not* averse to change, but mishandled changes will generate resistance
 - Change process has 3 stages:
   1) **Unfreezing**: involves an effort to understand the problem and make aware the opportunities for improvement
-  2) **Moving**: change planning an implementation
+  2) **Moving**: change planning and implementation
   3) **Refreezing**: ensure an achieved capability is retained in general practice
 
 ### Champions, sponsors, and agents
 
 - **Champions** are the ones who initiate the change process
   - Bring management's attention to the problem
-  - Obtain blessing of sponsor
+  - Obtain blessing of sponsor (ideally from senior management)
   - Establish credibility to get change program launched
 - **Sponsors** someone in authority who recognizes the value of the work (typically a senior manager)
   - Provide resources

@@ -36,7 +36,7 @@
 ### 1) Start with a process model
 
 - An assessment implies a standard
-- Organization process is reviewed and compared with some vision of how such process should be performed
+- Organization's process is reviewed and compared with some vision of how such process should be performed
 
 ### 2) Observe strict confidentiality
 
@@ -47,14 +47,14 @@
 
 ### 3) Involve senior management
 
-- Senior management sets organization priorities
+- Senior management that sets organization priorities is the site manager
 - Must be personally involved with assessment and its follow-up action plans
 - Lack of involvement may lead to change work having low priority
 
 ### 4) Keep an open mind and level head
 
 - Even when assessment is appropriately supportive, some people can feel resentful and may not cooperate
-- If team member action's demonstrate a desire for active collaboration, people generally respond positively
+- If team member's action demonstrate a desire for active collaboration, people generally respond positively
 
 ### 5) Focus on action
 
@@ -87,6 +87,20 @@
   - Be currently serving in an audit or review capacity for any projects being assessed
   - Be a line manager over any project being assessed or people being interviewed
   - Be working directly on any project being assessed
+
+**Assessment ground rules**
+
+- A written set of ground rules for
+  - The organization being assessed
+  - The assessment team members
+- For external assessment, site manager and assessment team lead should sign a written agreement
+
+**Assessment team training**
+
+- Full participation is required in
+  - Training period
+  - On-site review
+  - Wrap-up meetings
 
 ### The on-site period
 
@@ -142,7 +156,7 @@
 - Ensure any overlooked problems are identified or any misstated or overemphasized problems are corrected
 - Last site action is to review composite findings with site manager and staff
   - Address any questions and schedule follow-up work
-  - If possible, site personnel should attend this meeting
+  - If possible, all site personnel involved in the assessment should attend this meeting
 
 ### Finding formulation
 
@@ -174,6 +188,15 @@
 - Limit total number of items requiring action to 10
 - Assessment team should clearly explain the rationale for implementation priority
 
+**Typical final report outline**
+
+1) Summary and conclusions: executive summary of findings and recommendations
+2) The assessment: assessment background and description of assessment process
+3) Site status: description of site status (issues)
+4) Key findings: brief description of each finding
+5) Recommendations: description of recommendations in priority order
+6) Appendices: Assessment agreement, cross-reference of findings and recommendations
+
 ### Action plans
 
 - Prepared by the **local site organization** under guidance of assessment team member named for this purpose
@@ -200,7 +223,7 @@
 **Schedule conflicts**
 
 - Crises can conflict with assessment plans
-- Most damaging is on-site manager missing opening or closing meetings or both
+- Most damaging is site manager missing opening or closing meetings or both
   - Such conflicts happen with 1/3 of assessments
   - Prepare a substitute executive to speak in the manager's place
 
