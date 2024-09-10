@@ -16,3 +16,5 @@
   - [Lecture 3: Scrum Processes](fall-2024/cpsc-544/lecture-3_scrum-processes.md)
   - [Lecture 4: Principles of Software Process Change](fall-2024/cpsc-544/lecture-4_prinicples-of-software-change.md)
   - [Lecture 5: Software Process Assessment](fall-2024/cpsc-544/lecture-5_software-process-assessment.md)
+  - [Lecture 6: The Initial Process](fall-2024/cpsc-544/lecture-6_the-initial-process.md)
+  - [Lecture 7: Managing Software Organizations](fall-2024/cpsc-544/lecture-7_managing-software-organizations.md)
