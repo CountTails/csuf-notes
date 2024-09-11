@@ -66,13 +66,28 @@
 
 **Context diagrams**
 
+- Entire system depicted as a singular single deliberately providing no detail about system internals
+- External entities are represented as rectangles surrounding the system
+- Arrows represent data flows between external entities and the system
+
 ![Context diagram for chemical tracking system](figures/context-diagram.png)
 
 **Ecosystem maps**
 
+- Systems are represented as boxes with the primary system being shown in a bold box
+- Lines between systems show interfaces between systems
+- Lines with arrows dictate major data flows from one system to another
+
 ![Ecosystem map for chemical tracking system](figures/ecosystem-map.png)
 
 **Feature trees**
+
+- Main branch represents the product being developed
+- Each feature has its own "branch" from the main branch
+- Each branch illustrates up to 3 levels of features
+  - Level 1: a major feature shown as a gray box at the end of the branch
+  - Level 2: sub feature branching off the major feature branch
+  - Level 3: sub features branching off the sub feature branch
 
 ![Feature tree for chemical tracking system](figures/feature-tree.png)
 
