@@ -20,3 +20,5 @@
   - [Lecture 5: Software Process Assessment](fall-2024/cpsc-544/lecture-5_software-process-assessment.md)
   - [Lecture 6: The Initial Process](fall-2024/cpsc-544/lecture-6_the-initial-process.md)
   - [Lecture 7: Managing Software Organizations](fall-2024/cpsc-544/lecture-7_managing-software-organizations.md)
+  - [Lecture 8: The Project Plan](fall-2024/cpsc-544/lecture-8_the-project-plan.md)
+  - [Lecture 9: Software Configuration Management (Part 1)](fall-2024/cpsc-544/lecture-9_software-configuration-management-part-1.md)
