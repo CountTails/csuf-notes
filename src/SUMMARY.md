@@ -24,3 +24,5 @@
   - [Lecture 7: Managing Software Organizations](fall-2024/cpsc-544/lecture-7_managing-software-organizations.md)
   - [Lecture 8: The Project Plan](fall-2024/cpsc-544/lecture-8_the-project-plan.md)
   - [Lecture 9: Software Configuration Management (Part 1)](fall-2024/cpsc-544/lecture-9_software-configuration-management-part-1.md)
+  - [Lecture 10: Software Quality Assurance](fall-2024/cpsc-544/lecture-10_software-quality-assurance.md)
+  - [Lecture 11: Software Standards](fall-2024/cpsc-544/lecture-11_software-standards.md)
