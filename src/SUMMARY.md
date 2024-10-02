@@ -14,6 +14,7 @@
   - [Lecture 7: Requirements Elicitation](fall-2024/cpsc-541/lecture-7_requirements-elicitation.md)
   - [Lecture 8: Understanding User Requirements](fall-2024/cpsc-541/lecture-8_understanding-user-requirements.md)
   - [Lecture 9: Business rules](fall-2024/cpsc-541/lecture-9_business-rules.md)
+  - [Lecture 10: Documenting the Requirements](fall-2024/cpsc-541/lecture-10_documenting-the-requirements.md)
 - [CPSC 544](fall-2024/cpsc-544/syllabus.md)
   - [Lecture 1: Software Process Maturity](fall-2024/cpsc-544/lecture-1_software-process-maturity.md)
   - [Lecture 2: Agile Processes and Extreme Programming](fall-2024/cpsc-544/lecture-2_agile-processes-and-xp.md)
