@@ -27,3 +27,4 @@
   - [Lecture 9: Software Configuration Management (Part 1)](fall-2024/cpsc-544/lecture-9_software-configuration-management-part-1.md)
   - [Lecture 10: Software Quality Assurance](fall-2024/cpsc-544/lecture-10_software-quality-assurance.md)
   - [Lecture 11: Software Standards](fall-2024/cpsc-544/lecture-11_software-standards.md)
+  - [Lecture 12: CMMI](fall-2024/cpsc-544/lecture-12_cmmi.md)
