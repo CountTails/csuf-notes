@@ -28,4 +28,5 @@
   - [Lecture 10: Software Quality Assurance](fall-2024/cpsc-544/lecture-10_software-quality-assurance.md)
   - [Lecture 11: Software Standards](fall-2024/cpsc-544/lecture-11_software-standards.md)
   - [Lecture 12: CMMI](fall-2024/cpsc-544/lecture-12_cmmi.md)
-  - [Lecture 13: IDEAL](fall-2024/cpsc-544/lecture-12_ideal.md)
+  - [LECTURE 13: IDEAL](FALL-2024/CPSC-544/LECTURE-12_IDEAL.MD)
+  - [Lecture 14: SCAMPI](fall-2024/cpsc-544/lecture-13_scampi.md)
