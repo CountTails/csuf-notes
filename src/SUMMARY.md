@@ -32,3 +32,5 @@
   - [Lecture 12: CMMI](fall-2024/cpsc-544/lecture-12_cmmi.md)
   - [LECTURE 13: IDEAL](FALL-2024/CPSC-544/LECTURE-12_IDEAL.MD)
   - [Lecture 14: SCAMPI](fall-2024/cpsc-544/lecture-13_scampi.md)
+  - [Lecture 15: Software Inspections](fall-2024/cpsc-544/lecture-15_software-inspections.md)
+  - [Lecture 16: Software Testing](fall-2024/cpsc-544/lecture-16_software-testing.md)
