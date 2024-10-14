@@ -18,3 +18,5 @@ level = 0         # the depth to start folding
 [output.html.search]
 enable = false            # enables the search feature
 
+[preprocessor.katex]
+after = ["links"]

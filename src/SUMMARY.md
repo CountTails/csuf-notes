@@ -17,6 +17,7 @@
   - [Lecture 10: Documenting the Requirements](fall-2024/cpsc-541/lecture-10_documenting-the-requirements.md)
   - [Lecture 11: Writing Excellent Requirements](fall-2024/cpsc-541/lecture-11_writing-excellent-requirements.md)
   - [Lecture 12: A Picture is Worth 1024 Words](fall-2024/cpsc-541/lecture-12_a-picture-is-worth-1024-words.md)
+  - [Lecture 13: Specifying Data Requirements](fall-2024/cpsc-541/lecture-13_specifying-data-requirements.md)
 - [CPSC 544](fall-2024/cpsc-544/syllabus.md)
   - [Lecture 1: Software Process Maturity](fall-2024/cpsc-544/lecture-1_software-process-maturity.md)
   - [Lecture 2: Agile Processes and Extreme Programming](fall-2024/cpsc-544/lecture-2_agile-processes-and-xp.md)
