@@ -38,3 +38,5 @@
   - [Lecture 14: SCAMPI](fall-2024/cpsc-544/lecture-13_scampi.md)
   - [Lecture 15: Software Inspections](fall-2024/cpsc-544/lecture-15_software-inspections.md)
   - [Lecture 16: Software Testing](fall-2024/cpsc-544/lecture-16_software-testing.md)
+  - [Lecture 17: Software Configuration Management (Part 2)](fall-2024/cpsc-544/lecture-17_software-configuration-management-part-2.md)
+  - [Lecture 18: Defining the Software Process](fall-2024/cpsc-544/lecture-18_defining-the-software-process.md)
