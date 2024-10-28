@@ -21,6 +21,8 @@
   - [Lecture 14: Beyond functionality (Software Quality Attributes)](fall-2024/cpsc-541/lecture-14_beyond-functionality.md)
   - [Lecture 15: Risk Reduction Through Prototyping](./fall-2024/cpsc-541/lecture-15_risk-reduction-through-prototyping.md)
   - [Lecture 16: Setting Requirements Priorities](./fall-2024/cpsc-541/lecture-16_setting-requirements-priorities.md)
+  - [Lecture 17: Validating Requirements](./fall-2024/cpsc-541/lecture-17_validating-requirements.md)
+  - [Lecture 18: Requirements Resuse](./fall-2024/cpsc-541/lecture-18_requirements-reuse.md)
 - [CPSC 544](fall-2024/cpsc-544/syllabus.md)
   - [Lecture 1: Software Process Maturity](fall-2024/cpsc-544/lecture-1_software-process-maturity.md)
   - [Lecture 2: Agile Processes and Extreme Programming](fall-2024/cpsc-544/lecture-2_agile-processes-and-xp.md)
