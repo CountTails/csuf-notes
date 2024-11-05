@@ -45,3 +45,4 @@
   - [Lecture 18: Defining the Software Process](fall-2024/cpsc-544/lecture-18_defining-the-software-process.md)
   - [Lecture 19: The Software Process Engineering Group](./fall-2024/cpsc-544/lecture-19_the-softare-process-engineering-group.md)
   - [Lecture 20: Data Gathering and Analysis](./fall-2024/cpsc-544/lecture-20_data-gathering-and-analysis.md)
+  - [Lecture 21: Managing Software Quality](./fall-2024/cpsc-544/lecture-21_managing-software-quality.md)
