@@ -24,6 +24,8 @@
   - [Lecture 17: Validating Requirements](./fall-2024/cpsc-541/lecture-17_validating-requirements.md)
   - [Lecture 18: Requirements Reuse](./fall-2024/cpsc-541/lecture-18_requirements-reuse.md)
   - [Lecture 19: Beyond Requirements Development](./fall-2024/cpsc-541/lecture-19_beyond-requirements-development.md)
+  - [Lecture 20: Requirements Management Principles and Practices](./fall-2024/cpsc-541/lecture-20_requirements-management-principles-and-practices.md)
+  - [Lecture 21: Change Happens](./fall-2024/cpsc-541/lecture-21_change-happens.md)
 - [CPSC 544](fall-2024/cpsc-544/syllabus.md)
   - [Lecture 1: Software Process Maturity](fall-2024/cpsc-544/lecture-1_software-process-maturity.md)
   - [Lecture 2: Agile Processes and Extreme Programming](fall-2024/cpsc-544/lecture-2_agile-processes-and-xp.md)
