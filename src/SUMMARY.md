@@ -26,6 +26,8 @@
   - [Lecture 19: Beyond Requirements Development](./fall-2024/cpsc-541/lecture-19_beyond-requirements-development.md)
   - [Lecture 20: Requirements Management Principles and Practices](./fall-2024/cpsc-541/lecture-20_requirements-management-principles-and-practices.md)
   - [Lecture 21: Change Happens](./fall-2024/cpsc-541/lecture-21_change-happens.md)
+  - [Lecture 22: Links in the Requirements Chain](./fall-2024/cpsc-541/lecture-22_links-in-the-requirements-chain.md)
+  - [Lecture 23: Requirements Management Tools](./fall-2024/cpsc-541/lecture-23_requirements-management-tools.md)
 - [CPSC 544](fall-2024/cpsc-544/syllabus.md)
   - [Lecture 1: Software Process Maturity](fall-2024/cpsc-544/lecture-1_software-process-maturity.md)
   - [Lecture 2: Agile Processes and Extreme Programming](fall-2024/cpsc-544/lecture-2_agile-processes-and-xp.md)
@@ -48,3 +50,4 @@
   - [Lecture 19: The Software Process Engineering Group](./fall-2024/cpsc-544/lecture-19_the-softare-process-engineering-group.md)
   - [Lecture 20: Data Gathering and Analysis](./fall-2024/cpsc-544/lecture-20_data-gathering-and-analysis.md)
   - [Lecture 21: Managing Software Quality](./fall-2024/cpsc-544/lecture-21_managing-software-quality.md)
+  - [Lecture 22: Defect Prevention](./fall-2024/cpsc-544/lecture-22_defect-prevention.md)
