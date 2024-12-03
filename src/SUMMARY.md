@@ -28,6 +28,8 @@
   - [Lecture 21: Change Happens](./fall-2024/cpsc-541/lecture-21_change-happens.md)
   - [Lecture 22: Links in the Requirements Chain](./fall-2024/cpsc-541/lecture-22_links-in-the-requirements-chain.md)
   - [Lecture 23: Requirements Management Tools](./fall-2024/cpsc-541/lecture-23_requirements-management-tools.md)
+  - [Lecture 24: Improving the Requirements Process](./fall-2024/cpsc-541/lecture-24_improving-the-requirements-process.md)
+  - [Lecture 25: Software Requirements and Risk Management](./fall-2024/cpsc-541/lecture-25_software-requirements-and-risk-management.md)
 - [CPSC 544](fall-2024/cpsc-544/syllabus.md)
   - [Lecture 1: Software Process Maturity](fall-2024/cpsc-544/lecture-1_software-process-maturity.md)
   - [Lecture 2: Agile Processes and Extreme Programming](fall-2024/cpsc-544/lecture-2_agile-processes-and-xp.md)
