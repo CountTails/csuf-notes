@@ -53,3 +53,8 @@
   - [Lecture 20: Data Gathering and Analysis](./fall-2024/cpsc-544/lecture-20_data-gathering-and-analysis.md)
   - [Lecture 21: Managing Software Quality](./fall-2024/cpsc-544/lecture-21_managing-software-quality.md)
   - [Lecture 22: Defect Prevention](./fall-2024/cpsc-544/lecture-22_defect-prevention.md)
+
+# Spring 2025
+
+- [CPSC 545](spring-2025/cpsc-545/syllabus.md)
+- [CPSC 546](spring-2025/cpsc-546/syllabus.md)
