@@ -57,4 +57,5 @@
 # Spring 2025
 
 - [CPSC 545](spring-2025/cpsc-545/syllabus.md)
+  - [Lecture 1: What is Software Architecture?](./spring-2025/cpsc-545/lecture-01_what-is-software-architecture.md)
 - [CPSC 546](spring-2025/cpsc-546/syllabus.md)
