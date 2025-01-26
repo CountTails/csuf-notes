@@ -60,3 +60,4 @@
   - [Lecture 1: What is Software Architecture?](./spring-2025/cpsc-545/lecture-01_what-is-software-architecture.md)
 - [CPSC 546](spring-2025/cpsc-546/syllabus.md)
   - [Lecture 1: Project Management Process Framework](./spring-2025/cpsc-546/lecture-01_project-management-process-framework.md)
+  - [Lecture 2: The Agile Revolution](./spring-2025/cpsc-546/lecture-02_the-agile-revolution.md)
