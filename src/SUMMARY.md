@@ -60,6 +60,7 @@
   - [Lecture 1: What is Software Architecture?](./spring-2025/cpsc-545/lecture-01_what-is-software-architecture.md)
   - [Lecture 2: Why is Software Architecture Important?](./spring-2025/cpsc-545/lecture-02_why-is-software-architecture-important.md)
   - [Lecture 3: The Many Contexts of Software Architecture](./spring-2025/cpsc-545/lecture-03_the-many-contexts-of-software-architecture.md)
+  - [Lecture 4: Understanding Quality Attributes](./spring-2025/cpsc-545/lecture-04_understanding-quality-attributes.md)
 - [CPSC 546](spring-2025/cpsc-546/syllabus.md)
   - [Lecture 1: Project Management Process Framework](./spring-2025/cpsc-546/lecture-01_project-management-process-framework.md)
   - [Lecture 2: The Agile Revolution](./spring-2025/cpsc-546/lecture-02_the-agile-revolution.md)
