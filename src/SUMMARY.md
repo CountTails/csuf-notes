@@ -68,3 +68,4 @@
   - [Lecture 1: Project Management Process Framework](./spring-2025/cpsc-546/lecture-01_project-management-process-framework.md)
   - [Lecture 2: The Agile Revolution](./spring-2025/cpsc-546/lecture-02_the-agile-revolution.md)
   - [Lecture 3: Value Over Constraints](./spring-2025/cpsc-546/lecture-03_value-over-constraints.md)
+  - [Lecture 4: Adapting Over Conforming](./spring-2025/cpsc-546/lecture-04_adapting-over-conforming.md)
