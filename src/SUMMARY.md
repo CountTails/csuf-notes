@@ -65,6 +65,7 @@
   - [Lecture 6: Interoperability](./spring-2025/cpsc-545/lecture-06_interoperability.md)
   - [Lecture 7: Modifiability](./spring-2025/cpsc-545/lecture-07_modifiability.md)
   - [Lecture 8: Performance](./spring-2025/cpsc-545/lecture-08_performance.md)
+  - [Lecture 9: Security](./spring-2025/cpsc-545/lecture-09_security.md)
 - [CPSC 546](spring-2025/cpsc-546/syllabus.md)
   - [Lecture 1: Project Management Process Framework](./spring-2025/cpsc-546/lecture-01_project-management-process-framework.md)
   - [Lecture 2: The Agile Revolution](./spring-2025/cpsc-546/lecture-02_the-agile-revolution.md)
