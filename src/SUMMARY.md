@@ -67,6 +67,7 @@
   - [Lecture 8: Performance](./spring-2025/cpsc-545/lecture-08_performance.md)
   - [Lecture 9: Security](./spring-2025/cpsc-545/lecture-09_security.md)
   - [Lecture 10: Testability](./spring-2025/cpsc-545/lecture-10_testability.md)
+  - [Lecture 11: Usability](./spring-2025/cpsc-545/lecture-11_usability.md)
 - [CPSC 546](spring-2025/cpsc-546/syllabus.md)
   - [Lecture 1: Project Management Process Framework](./spring-2025/cpsc-546/lecture-01_project-management-process-framework.md)
   - [Lecture 2: The Agile Revolution](./spring-2025/cpsc-546/lecture-02_the-agile-revolution.md)
