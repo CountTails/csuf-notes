@@ -79,3 +79,4 @@
   - [Lecture 6: An Agile Project Management Model](./spring-2025/cpsc-546/lecture-06_an-agile-project-management-model.md)
   - [Lecture 7: Agile Project Management (The Envision Phase)](./spring-2025/cpsc-546/lecture-07_agile-project-management_the-envision-phase.md)
   - [Lecture 8: Agile Project Management (The Speculate Phase)](./spring-2025/cpsc-546/lecture-08_agile-project-management_the-speculate-phase.md)
+  - [Lecture 9: Advance Release Planning](./spring-2025/cpsc-546/lecture-09_advance-release-planning.md)
