@@ -73,6 +73,7 @@
   - [Lecture 14: Architecture and Requirements](./spring-2025/cpsc-545/lecture-14_architecture-and-requirements.md)
   - [Lecture 15: Designing an Architecture](./spring-2025/cpsc-545/lecture-15_designing-an-architecture.md)
   - [Lecture 16: Documenting Software Architectures](./spring-2025/cpsc-545/lecture-16_documenting-software-architectures.md)
+  - [Lecture 17: Quality Attribute Modeling and Analysis](./spring-2025/cpsc-545/lecture-17_quality-attribute-modeling-and-analysis.md)
 - [CPSC 546](spring-2025/cpsc-546/syllabus.md)
   - [Lecture 1: Project Management Process Framework](./spring-2025/cpsc-546/lecture-01_project-management-process-framework.md)
   - [Lecture 2: The Agile Revolution](./spring-2025/cpsc-546/lecture-02_the-agile-revolution.md)
