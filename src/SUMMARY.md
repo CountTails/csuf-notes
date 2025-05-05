@@ -86,3 +86,4 @@
   - [Lecture 8: Agile Project Management (The Speculate Phase)](./spring-2025/cpsc-546/lecture-08_agile-project-management_the-speculate-phase.md)
   - [Lecture 9: Advance Release Planning](./spring-2025/cpsc-546/lecture-09_advance-release-planning.md)
   - [Lecture 10: The Explore Phase](./spring-2025/cpsc-546/lecture-10_the-explore-phase.md)
+  - [Lecture 11: The Adapt and Close Phase](./spring-2025/cpsc-546/lecture-11_the-adapt-and-close-phase.md)
