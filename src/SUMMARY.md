@@ -92,3 +92,4 @@
 
 - [CPSC 548](./summer-2025/cpsc-548/syllabus.md)
   - [Lecture 1: An Introduction to Humanities](./summer-2025/cpsc-548/lecture-01_an-introduction-to-humanities.md)
+  - [Lecture 2: Introduction to Ethics](./summer-2025/cpsc-548/lecture-02_introduction-to-ethics.md)
