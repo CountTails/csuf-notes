@@ -95,3 +95,4 @@
   - [Lecture 2: Introduction to Ethics](./summer-2025/cpsc-548/lecture-02_introduction-to-ethics.md)
   - [Lecture 3: Professional Ethics](./summer-2025/cpsc-548/lecture-03_professional-ethics.md)
   - [Lecture 4: Work and Wealth](./summer-2025/cpsc-548/lecture-04_work-and-wealth.md)
+  - [Lecture 5: Intellectual Property](./summer-2025/cpsc-548/lecture-05_intellectual-property.md)
