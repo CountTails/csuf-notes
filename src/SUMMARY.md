@@ -97,3 +97,4 @@
   - [Lecture 4: Work and Wealth](./summer-2025/cpsc-548/lecture-04_work-and-wealth.md)
   - [Lecture 5: Intellectual Property](./summer-2025/cpsc-548/lecture-05_intellectual-property.md)
   - [Lecture 6: Networked Communications](./summer-2025/cpsc-548/lecture-06_networked-communications.md)
+  - [Lecture 7: Information Privacy](./summer-2025/cpsc-548/lecture-07_information-privacy.md)
