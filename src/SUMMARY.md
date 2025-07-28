@@ -99,3 +99,4 @@
   - [Lecture 6: Networked Communications](./summer-2025/cpsc-548/lecture-06_networked-communications.md)
   - [Lecture 7: Information Privacy](./summer-2025/cpsc-548/lecture-07_information-privacy.md)
   - [Lecture 8: Privacy and the Government](./summer-2025/cpsc-548/lecture-08_privacy-and-the-government.md)
+  - [Lecture 9: Computer and Network Security](./summer-2025/cpsc-548/lecture-09_computer-and-network-security.md)
