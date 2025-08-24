@@ -101,3 +101,8 @@
   - [Lecture 8: Privacy and the Government](./summer-2025/cpsc-548/lecture-08_privacy-and-the-government.md)
   - [Lecture 9: Computer and Network Security](./summer-2025/cpsc-548/lecture-09_computer-and-network-security.md)
   - [Lecture 10: Computer Reliability](./summer-2025/cpsc-548/lecture-10_computer-reliability.md)
+
+# Fall 2025
+
+- [CPSC 542](./fall-2025/cpsc-542/syllabus.md)
+- [CPSC 547](./fall-2025/cpsc-547/syllabus.md)
