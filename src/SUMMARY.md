@@ -105,5 +105,6 @@
 # Fall 2025
 
 - [CPSC 542](./fall-2025/cpsc-542/syllabus.md)
-  - [Testing Fundamental (Part 1)](./fall-2025/cpsc-542/lecture-01_testing-fundamentals-part-1.md)
+  - [Lecture 1: Testing Fundamental (Part 1)](./fall-2025/cpsc-542/lecture-01_testing-fundamentals-part-1.md)
 - [CPSC 547](./fall-2025/cpsc-547/syllabus.md)
+  - [Lecture 1: Measuring the Software Process](./fall-2025/cpsc-547/lecture-01_measuring-the-software-process.md)
