@@ -109,3 +109,4 @@
   - [Lecture 2: Testing Fundamental (Part 2)](./fall-2025/cpsc-542/lecture-02_testing-fundamentals-part-2.md)
 - [CPSC 547](./fall-2025/cpsc-547/syllabus.md)
   - [Lecture 1: Measuring the Software Process](./fall-2025/cpsc-547/lecture-01_measuring-the-software-process.md)
+  - [Lecture 2: Planning for Measurement](./fall-2025/cpsc-547/lecture-02_planning-for-measurement.md)
