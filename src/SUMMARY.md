@@ -108,6 +108,7 @@
   - [Lecture 1: Testing Fundamental (Part 1)](./fall-2025/cpsc-542/lecture-01_testing-fundamentals-part-1.md)
   - [Lecture 2: Testing Fundamental (Part 2)](./fall-2025/cpsc-542/lecture-02_testing-fundamentals-part-2.md)
   - [Lecture 3: Testing Activities](./fall-2025/cpsc-542/lecture-03_testing-activities.md)
+  - [Lecture 4: Boundary Value Testing](./fall-2025/cpsc-542/lecture-04_boundary-value-testing.md)
 - [CPSC 547](./fall-2025/cpsc-547/syllabus.md)
   - [Lecture 1: Measuring the Software Process](./fall-2025/cpsc-547/lecture-01_measuring-the-software-process.md)
   - [Lecture 2: Planning for Measurement](./fall-2025/cpsc-547/lecture-02_planning-for-measurement.md)
