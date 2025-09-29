@@ -115,3 +115,5 @@
   - [Lecture 1: Measuring the Software Process](./fall-2025/cpsc-547/lecture-01_measuring-the-software-process.md)
   - [Lecture 2: Planning for Measurement](./fall-2025/cpsc-547/lecture-02_planning-for-measurement.md)
   - [Lecture 3: Making a Measurement Plan](./fall-2025/cpsc-547/lecture-03_making-a-measurement-plan.md)
+  - [Lecture 4: Data Collection](./fall-2025/cpsc-547/lecture-04_data-collection.md)
+  - [Lecture 5: Basic Statistics for Software Engineers (Part 1)](./fall-2025/cpsc-547/lecture-05_stats-for-software-engineers-part-1.md)
