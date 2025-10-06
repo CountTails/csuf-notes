@@ -117,3 +117,4 @@
   - [Lecture 3: Making a Measurement Plan](./fall-2025/cpsc-547/lecture-03_making-a-measurement-plan.md)
   - [Lecture 4: Data Collection](./fall-2025/cpsc-547/lecture-04_data-collection.md)
   - [Lecture 5: Basic Statistics for Software Engineers (Part 1)](./fall-2025/cpsc-547/lecture-05_stats-for-software-engineers-part-1.md)
+  - [Lecture 6: Basic Statistics for Software Engineers (Part 2)](./fall-2025/cpsc-547/lecture-06_stats-for-software-engineers-part-2.md)
