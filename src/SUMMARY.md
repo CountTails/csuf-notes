@@ -115,6 +115,7 @@
   - [Lecture 8: Path Testing (Part 2)](./fall-2025/cpsc-542/lecture-08_path-testing-part-2.md)
   - [Lecture 9: Path Testing (Part 3)](./fall-2025/cpsc-542/lecture-09_path-testing-part-3.md)
   - [Lecture 10: Date Flow Testing (Part 1)](./fall-2025/cpsc-542/lecture-10_data-flow-testing-part-1.md)
+  - [Lecture 11 Data Flow Testing (Part 2)](./fall-2025/cpsc-542/lecture-11_data-flow-testing-part-2.md)
 - [CPSC 547](./fall-2025/cpsc-547/syllabus.md)
   - [Lecture 1: Measuring the Software Process](./fall-2025/cpsc-547/lecture-01_measuring-the-software-process.md)
   - [Lecture 2: Planning for Measurement](./fall-2025/cpsc-547/lecture-02_planning-for-measurement.md)
