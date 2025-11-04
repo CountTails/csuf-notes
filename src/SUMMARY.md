@@ -118,6 +118,7 @@
   - [Lecture 11: Data Flow Testing (Part 2)](./fall-2025/cpsc-542/lecture-11_data-flow-testing-part-2.md)
   - [Lecture 12: Data Flow Testing (Part 3)](./fall-2025/cpsc-542/lecture-12_data-flow-testing-part-3.md)
   - [Lecture 13: Integration Testing](./fall-2025/cpsc-542/lecture-13_integration-testing.md)
+  - [Lecture 14: Test Processes](./fall-2025/cpsc-542/lecture-14_test-processes.md)
 - [CPSC 547](./fall-2025/cpsc-547/syllabus.md)
   - [Lecture 1: Measuring the Software Process](./fall-2025/cpsc-547/lecture-01_measuring-the-software-process.md)
   - [Lecture 2: Planning for Measurement](./fall-2025/cpsc-547/lecture-02_planning-for-measurement.md)
