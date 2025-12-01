@@ -130,3 +130,4 @@
   - [Lecture 6: Basic Statistics for Software Engineers (Part 2)](./fall-2025/cpsc-547/lecture-06_stats-for-software-engineers-part-2.md)
   - [Lecture 7: Evolution of Measures in CMMI](./fall-2025/cpsc-547/lecture-07_evolution-of-measures-in-cmmi.md)
   - [Lecture 8: Analyzing Process Behavior with Control Charts](./fall-2025/cpsc-547/lecture-08_analyzing-process-behavior-with-control-charts.md)
+  - [Lecture 9: Establish Stable Process Behavior Charts](./fall-2025/cpsc-547/lecture-09_establish-stable-process-behavior-charts.md)
