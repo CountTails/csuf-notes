@@ -134,3 +134,8 @@
   - [Lecture 8: Analyzing Process Behavior with Control Charts](./fall-2025/cpsc-547/lecture-08_analyzing-process-behavior-with-control-charts.md)
   - [Lecture 9: Establish Stable Process Behavior Charts](./fall-2025/cpsc-547/lecture-09_establish-stable-process-behavior-charts.md)
   - [Lecture 10: Process Improvement (From Stable to Capable)](./fall-2025/cpsc-547/lecture-10_process-improvement-from-stable-to-capable.md)
+
+# Spring 2026
+
+- [CPSC 543](./spring-2026/cpsc-543/syllabus.md)
+- [CPSC 597](./spring-2026/cpsc-597/syllabus.md)
