@@ -138,4 +138,5 @@
 # Spring 2026
 
 - [CPSC 543](./spring-2026/cpsc-543/syllabus.md)
+  - [Lecture 1](./spring-2026/cpsc-543/lecture-01_concepts-in-maintenance.md)
 - [CPSC 597](./spring-2026/cpsc-597/syllabus.md)
