@@ -141,4 +141,5 @@
   - [Lecture 1](./spring-2026/cpsc-543/lecture-01_concepts-in-maintenance.md)
   - [Lecture 2](./spring-2026/cpsc-543/lecture-02_the-maintenance-framework.md)
   - [Lecture 3](./spring-2026/cpsc-543/lecture-03_fundamentals-of-software-change.md)
+  - [Lecture 4](./spring-2026/cpsc-543/lecture-04_limitations-and-economic-implications-of-software-change.md)
 - [CPSC 597](./spring-2026/cpsc-597/syllabus.md)
