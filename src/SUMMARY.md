@@ -143,4 +143,5 @@
   - [Lecture 3](./spring-2026/cpsc-543/lecture-03_fundamentals-of-software-change.md)
   - [Lecture 4](./spring-2026/cpsc-543/lecture-04_limitations-and-economic-implications-of-software-change.md)
   - [Lecture 5](./spring-2026/cpsc-543/lecture-05_the-maintenanc-process.md)
+  - [Lecture 6](./spring-2026/cpsc-543/lecture-06_maintenance-measures.md)
 - [CPSC 597](./spring-2026/cpsc-597/syllabus.md)
