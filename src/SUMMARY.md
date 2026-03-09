@@ -145,4 +145,5 @@
   - [Lecture 5](./spring-2026/cpsc-543/lecture-05_the-maintenanc-process.md)
   - [Lecture 6](./spring-2026/cpsc-543/lecture-06_maintenance-measures.md)
   - [Lecture 7](./spring-2026/cpsc-543/lecture-07_building-and-sustaining-maintainability.md)
+  - [Lecture 8](./spring-2026/cpsc-543/lecture-08_program-understanding.md)
 - [CPSC 597](./spring-2026/cpsc-597/syllabus.md)
