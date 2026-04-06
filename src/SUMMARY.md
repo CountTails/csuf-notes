@@ -148,4 +148,5 @@
   - [Lecture 8](./spring-2026/cpsc-543/lecture-08_program-understanding.md)
   - [Lecture 9](./spring-2026/cpsc-543/lecture-09_reverse-engineering.md)
   - [Lecture 10](./spring-2026/cpsc-543/lecture-10_reuse-and-reusability.md)
+  - [Lecture 11](./spring-2026/cpsc-543/lecture-11_testing.md)
 - [CPSC 597](./spring-2026/cpsc-597/syllabus.md)
