@@ -150,4 +150,5 @@
   - [Lecture 10](./spring-2026/cpsc-543/lecture-10_reuse-and-reusability.md)
   - [Lecture 11](./spring-2026/cpsc-543/lecture-11_testing.md)
   - [Lecture 12](./spring-2026/cpsc-543/lecture-12_management-and-organization-issues.md)
+  - [Lecture 13](./spring-2026/cpsc-543/lecture-13_configuration-management.md)
 - [CPSC 597](./spring-2026/cpsc-597/syllabus.md)
